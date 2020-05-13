@@ -11,3 +11,16 @@ C:\National Grid\GBE\RedHat Hackthon\HelloWorld Csharp\obj\Debug\netcoreapp3.1\H
 C:\National Grid\GBE\RedHat Hackthon\HelloWorld Csharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.dll
 C:\National Grid\GBE\RedHat Hackthon\HelloWorld Csharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.pdb
 C:\National Grid\GBE\RedHat Hackthon\HelloWorld Csharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.genruntimeconfig.cache
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.exe
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.deps.json
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.runtimeconfig.json
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.runtimeconfig.dev.json
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.dll
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\bin\Debug\netcoreapp3.1\HelloWorld Csharp.pdb
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.csprojAssemblyReference.cache
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.csproj.CoreCompileInputs.cache
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.AssemblyInfoInputs.cache
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.AssemblyInfo.cs
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.dll
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.pdb
+C:\National Grid\GBE\RedHat Hackthon\HelloWorld-cSharp-Clone\HelloWorldcSharp\obj\Debug\netcoreapp3.1\HelloWorld Csharp.genruntimeconfig.cache

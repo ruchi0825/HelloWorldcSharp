@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld Csharp\\HelloWorld Csharp.csproj",
+      "projectUniqueName": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld-cSharp-Clone\\HelloWorldcSharp\\HelloWorld Csharp.csproj",
       "projectName": "HelloWorld Csharp",
-      "projectPath": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld Csharp\\HelloWorld Csharp.csproj",
+      "projectPath": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld-cSharp-Clone\\HelloWorldcSharp\\HelloWorld Csharp.csproj",
       "packagesPath": "C:\\Users\\RUCHIGupta\\.nuget\\packages\\",
-      "outputPath": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld Csharp\\obj\\",
+      "outputPath": "C:\\National Grid\\GBE\\RedHat Hackthon\\HelloWorld-cSharp-Clone\\HelloWorldcSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
